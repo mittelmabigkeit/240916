@@ -8,10 +8,7 @@ var triangle={
 };
 console.log(triangle.ac());
 
-var gipotenuza=(function(a,b){
-	aaa=(a*a)+(b*b);
-	return Math.sqrt(aaa);
-}(3,4));
+var gipotenuza=(function(a,b){aaa=(a*a)+(b*b); return Math.sqrt(aaa);}(3,4));
 console.log(gipotenuza);
 
 var storona=function cc(aa,bb) {
