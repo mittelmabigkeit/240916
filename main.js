@@ -16,3 +16,7 @@ var storona=function cc(aa,bb) {
 	return Math.sqrt(gip);
 }
 console.log(storona(3,4));
+
+//Найти длину окружности R=произвольный сconst PI=3.14
+//Найти площадь окружности
+//3 способа
