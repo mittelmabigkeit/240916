@@ -6,3 +6,6 @@ var triangle={
 	}
 };
 console.log(triangle.ac());
+
+var gipotenuza=(function(a,b){return (a*a)+(b*b)}(3,4));
+console.log(gipotenuza);
